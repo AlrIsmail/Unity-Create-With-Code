@@ -35,8 +35,7 @@ Follow these instructions to run each prototype:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd Unity-Prototypes-1-4
+   git clone https://github.com/AlrIsmail/Unity-Create-With-Code.git
    ```
 
 2. **Open Unity:**
